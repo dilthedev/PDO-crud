@@ -39,8 +39,8 @@ CREATE TABLE `people` (
 --
 
 INSERT INTO `people` (`id`, `name`, `email`) VALUES
-(1, 'Dilshanka Liyanage', 'd@gmail.com'),
-(2, 'Araliya', 'a@gmail.com');
+(1, 'ddd', 'd@gmail.com'),
+(2, 'aaa', 'a@gmail.com');
 
 --
 -- Indexes for dumped tables
